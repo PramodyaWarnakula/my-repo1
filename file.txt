@@ -2,3 +2,4 @@ hello git
 app stating
 app working
 new feature starting
+stage:1 new feature
